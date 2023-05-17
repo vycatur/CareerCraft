@@ -1,0 +1,69 @@
+1. Stripe: Software Engineer - Financial Products
+
+Skills:
+- Software engineering and development
+- Familiarity with financial systems and technologies
+- Proficiency in programming languages (e.g., Python, Ruby, or Java)
+- Problem-solving and critical thinking
+- Collaboration and teamwork
+
+Certifications (optional but helpful):
+- AWS Certified Developer or Solutions Architect
+- Oracle Certified Java Programmer
+- Python Institute - Certified Entry-Level Python Programmer
+
+2. Square: Senior Project Manager - Merchant Services
+
+Skills:
+- Project management experience in a technology company
+- Familiarity with Agile methodologies and tools
+- Strong communication and negotiation skills
+- Organizational and leadership abilities
+- Understanding of financial technology and merchant services
+
+Certifications (optional but helpful):
+- Project Management Professional (PMP)
+- Scrum Master certification (e.g., CSM, PSM)
+- Lean Six Sigma Green or Black Belt
+
+3. Slack: Technical Product Manager - Collaboration Platform
+
+Skills:
+- Product management experience in a technology company
+- Technical background and understanding of engineering best practices
+- Ability to create and communicate product roadmap and strategy
+- Analytical and data-driven decision-making
+- Collaboration and cross-functional team management
+
+Certifications (optional but helpful):
+- Certified Scrum Product Owner (CSPO)
+- Pragmatic Marketing Certified (PMC)
+- AIPMM Certified Product Manager (CPM)
+
+4. Y Combinator: Startup Advisor - Software & Technology
+
+Skills:
+- Technology or software company experience
+- Understanding of entrepreneurial best practices
+- Networking and relationship-building abilities
+- Problem-solving and mentoring skills
+- Strong communication and presentation skills
+
+Certifications (optional but helpful):
+- Lean Startup training programs
+- Startup accelerator/mentorship program participation
+- Business or technology incubator program certifications
+
+5. Zillow: Software Engineer - Real Estate Technologies
+
+Skills:
+- Software engineering and development
+- Experience with web development and scalable systems
+- Proficiency in programming languages (e.g., Python, JavaScript, or Java)
+- Problem-solving and critical thinking
+- Interest in real estate technology and innovation
+
+Certifications (optional but helpful):
+- AWS Certified Developer or Solutions Architect
+- Microsoft Certified Solutions Developer (MCSD)
+- Google Cloud Professional (GCP) Cloud Developer

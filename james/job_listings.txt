@@ -1,0 +1,69 @@
+1. Stripe
+
+Job Title: Software Engineer - Financial Products
+
+Job Posting: We are looking for an experienced software engineer to join our Financial Products team. You will be responsible for the design, development, and maintenance of our financial software applications, helping to shape the future of global digital payments. Apply your expertise in software engineering and the financial domain, and contribute to our mission of simplifying the way businesses accept, manage, and disburse payments.
+
+Requirements:
+
+- 5+ years of experience in software engineering
+- Familiarity with financial systems and technologies
+- Proficiency in at least one programming language, such as Python, Ruby, or Java
+- Strong problem-solving skills
+- Passion for innovation and the startup ecosystem
+
+2. Square
+
+Job Title: Senior Project Manager - Merchant Services
+
+Job Posting: Square is seeking a Senior Project Manager to lead cross-functional teams in defining, building, and launching key merchant services products. Leverage your experience in project management and software development to bring innovative solutions to our customers and help businesses of all sizes thrive.
+
+Requirements:
+
+- 7+ years of project management experience in a technology company
+- Demonstrated success in managing complex projects with multiple stakeholders
+- Familiarity with Agile methodologies and tools
+- Strong communication and problem-solving skills
+- Interest in financial technology and small business empowerment
+
+3. Slack
+
+Job Title: Technical Product Manager - Collaboration Platform
+
+Job Posting: Slack is looking for a Technical Product Manager to help shape the future of our collaboration platform. Drive the strategy and execution of cutting-edge features designed to enhance productivity and collaboration among millions of users worldwide.
+
+Requirements:
+
+- 5+ years of product management experience in a technology company
+- Demonstrated success in delivering software products
+- Strong technical background and understanding of engineering best practices
+- Excellent problem-solving and communication skills
+- Passion for fostering collaboration and improving workplace communication
+
+4. Y Combinator
+
+Job Title: Startup Advisor - Software & Technology
+
+Job Posting: Join Y Combinator as a Startup Advisor specializing in Software & Technology. Help guide early-stage companies on their journey to success and build connections within the thriving startup community.
+
+Requirements:
+
+- 5+ years of experience in a technology or software company
+- Demonstrated knowledge of entrepreneurial best practices
+- Strong network within the tech startup ecosystem
+- Excellent problem-solving and mentoring skills
+- Passion for supporting the growth of innovative businesses
+
+5. Zillow
+
+Job Title: Software Engineer - Real Estate Technologies
+
+Job Posting: Zillow is seeking a skilled software engineer to develop innovative technologies within the real estate domain. Collaborate with product and business teams in creating cutting-edge solutions that redefine the real estate experience for millions of users.
+
+Requirements:
+
+- 5+ years of software engineering experience
+- Experience with web development and scalable systems
+- Proficiency in at least one programming language such as Python, JavaScript, or Java
+- Strong problem-solving skills
+- Interest in real estate technology and innovation
